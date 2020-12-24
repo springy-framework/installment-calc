@@ -1,6 +1,7 @@
 # PHP Installment Interest and Future Value Calculator
 
-Tha class can get the
+This class can calculate interest, future value, and monthly installment for a
+principal value with an interest rate for a given number of months.
 
 ## Requirements
 
