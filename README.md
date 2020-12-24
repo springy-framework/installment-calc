@@ -7,6 +7,7 @@ principal value with an interest rate for a given number of months.
 [![Build Status](https://travis-ci.org/springy-framework/installment-calc.svg?branch=main)](https://travis-ci.org/springy-framework/installment-calc)
 ![PHP Composer](https://github.com/springy-framework/installment-calc/workflows/PHP%20Composer/badge.svg)
 [![PHPStan](https://img.shields.io/badge/PHPStan-enabled-brightgreen.svg?style=flat)](https://github.com/phpstan/phpstan)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/cb638369e28e4d508e38b02d8c7119fa)](https://www.codacy.com/gh/springy-framework/installment-calc/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=springy-framework/installment-calc&amp;utm_campaign=Badge_Grade)
 
 ## Requirements
 
