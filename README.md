@@ -10,6 +10,7 @@ principal value with an interest rate for a given number of months.
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/cb638369e28e4d508e38b02d8c7119fa)](https://www.codacy.com/gh/springy-framework/installment-calc/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=springy-framework/installment-calc&amp;utm_campaign=Badge_Grade)
 [![StyleCI](https://github.styleci.io/repos/323458954/shield?style=flat)](https://github.styleci.io/repos/323458954)
 [![Total Downloads](https://poser.pugx.org/springy-framework/installment-calc/downloads)](https://packagist.org/packages/springy-framework/installment-calc)
+[![License](https://poser.pugx.org/springy-framework/installment-calc/license)](https://packagist.org/packages/springy-framework/installment-calc)
 
 ## Requirements
 
