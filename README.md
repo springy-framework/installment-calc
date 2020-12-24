@@ -5,6 +5,7 @@ principal value with an interest rate for a given number of months.
 
 [![Latest Stable Version](https://poser.pugx.org/springy-framework/installment-calc/v/stable)](https://packagist.org/packages/springy-framework/installment-calc)
 [![Build Status](https://travis-ci.org/springy-framework/installment-calc.svg?branch=main)](https://travis-ci.org/springy-framework/installment-calc)
+![PHP Composer](https://github.com/springy-framework/installment-calc/workflows/PHP%20Composer/badge.svg)
 
 ## Requirements
 
