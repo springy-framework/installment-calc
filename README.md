@@ -3,6 +3,8 @@
 This class can calculate interest, future value, and monthly installment for a
 principal value with an interest rate for a given number of months.
 
+[![Latest Stable Version](https://poser.pugx.org/springy-framework/installment-calc/v/stable)](https://packagist.org/packages/springy-framework/installment-calc)
+
 ## Requirements
 
 - PHP 7.3+
