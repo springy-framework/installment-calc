@@ -1,7 +1,13 @@
 # PHP Installment Interest and Future Value Calculator
 
-This class can calculate interest, future value, and monthly installment for a
-principal value with an interest rate for a given number of months.
+This class can calculate the amount of installments on loans.
+
+It can take as parameters the loan amount, the interest rate and the
+identification of the method to use to calculate the installments.
+
+The class can returns the values related with installment payments like the
+total amount or the interest amount to be returned after a given number of
+months.
 
 [![Latest Stable Version](https://poser.pugx.org/springy-framework/installment-calc/v/stable)](https://packagist.org/packages/springy-framework/installment-calc)
 [![Build Status](https://travis-ci.org/springy-framework/installment-calc.svg?branch=main)](https://travis-ci.org/springy-framework/installment-calc)
