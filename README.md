@@ -10,8 +10,8 @@ total amount or the interest amount to be returned after a given number of
 months.
 
 [![Latest Stable Version](https://poser.pugx.org/springy-framework/installment-calc/v/stable)](https://packagist.org/packages/springy-framework/installment-calc)
+[![tests](https://github.com/springy-framework/installment-calc/actions/workflows/php.yml/badge.svg)](https://github.com/springy-framework/installment-calc/actions/workflows/php.yml)
 [![Build Status](https://travis-ci.com/springy-framework/installment-calc.svg?branch=main)](https://travis-ci.com/springy-framework/installment-calc)
-![PHP Composer](https://github.com/springy-framework/installment-calc/workflows/PHP%20Composer/badge.svg)
 [![PHPStan](https://img.shields.io/badge/PHPStan-enabled-brightgreen.svg?style=flat)](https://github.com/phpstan/phpstan)
 [![StyleCI](https://github.styleci.io/repos/323458954/shield?style=flat)](https://github.styleci.io/repos/323458954)
 [![Total Downloads](https://poser.pugx.org/springy-framework/installment-calc/downloads)](https://packagist.org/packages/springy-framework/installment-calc)
